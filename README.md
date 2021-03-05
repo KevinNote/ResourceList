@@ -15,6 +15,8 @@
 
 ## 工具软件
 
+- Android
+  - Android SDK Platform-Tools - <https://developer.android.com/studio/releases/platform-tools>
 - Security
   - Gpg4win - <https://www.gpg4win.org/>
 - Reverse Engineer
