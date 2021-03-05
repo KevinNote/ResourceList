@@ -8,6 +8,11 @@
 - 一键提交 [git-acp.cmd](git-acp.cmd)
 - 一键强制提交 [git-acpf.cmd](git-acpf.cmd)
 
+## BurpSuit 脚本
+
+- 启动 BP [run-burpsuit.cmd](run-burpsuit.cmd)
+- 启动 BP 注册机 [start-burpsuit-keygen.cmd](start-burpsuit-keygen.cmd)
+
 ## 工具软件
 
 - Security
@@ -20,6 +25,7 @@
   - d4dot - <https://github.com/de4dot/de4dot>
   - ilasm - <https://docs.microsoft.com/en-us/dotnet/framework/tools/ilasm-exe-il-assembler>
   - ildasm - <https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler>
+  - NuGet - <https://www.nuget.org/downloads>
 - Windows
   - Pocman/Process Monitor - <https://docs.microsoft.com/en-us/sysinternals/downloads/procmon>
   - Windows-Loopback-Exemption-Manager - <https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager>
