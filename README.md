@@ -40,7 +40,17 @@
   - Pocman/Process Monitor - <https://docs.microsoft.com/en-us/sysinternals/downloads/procmon>
   - Windows-Loopback-Exemption-Manager - <https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager>
   - QuickLook - <https://github.com/QL-Win/QuickLook>
+  - ContextMenuManager - <https://github.com/BluePointLilac/ContextMenuManager>
+  - Sandboxie - <https://github.com/sandboxie/sandboxie>
+  - Sandboxie Plus - <https://github.com/sandboxie-plus/Sandboxie>
 - Network
   - SocksCap64 - <https://www.sockscap64.com/sockscap64-changelog/>
   - SSTap - <https://github.com/solikethis/SSTap-backup>
   - BurpSuitPro - <https://github.com/TrojanAZhen/BurpSuitePro-2.1>
+  - WinMTR - <https://sourceforge.net/projects/winmtr/>
+  - WinMTR 中国改进版 - <https://github.com/oott123/WinMTR>
+  - WinMTR 中国改进改进版 - <https://github.com/heng21/WinMTR>
+  - Wireshark - <https://www.wireshark.org/>
+- Art
+  - Inkscape - <https://inkscape.org/>
+  - IcoFX - <https://icofx.ro/>
