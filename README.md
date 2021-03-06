@@ -30,6 +30,7 @@
   - SamFirm_Reborn - <https://github.com/ivanmeler/SamFirm_Reborn>
 - Security
   - Gpg4win - <https://www.gpg4win.org/>
+  - fscan - <https://github.com/shadow1ng/fscan>
 - Reverse Engineer
   - ImHex - <https://github.com/WerWolv/ImHex>
   - Ghidra - <https://ghidra-sre.org/>
