@@ -23,8 +23,11 @@
 
 ## 工具软件
 
+- Guide
+  - Digital-Privacy - <https://github.com/ffffffff0x/Digital-Privacy>
 - Android
   - Android SDK Platform-Tools - <https://developer.android.com/studio/releases/platform-tools>
+  - SamFirm_Reborn - <https://github.com/ivanmeler/SamFirm_Reborn>
 - Security
   - Gpg4win - <https://www.gpg4win.org/>
 - Reverse Engineer
@@ -35,6 +38,7 @@
   - d4dot - <https://github.com/de4dot/de4dot>
   - ilasm - <https://docs.microsoft.com/en-us/dotnet/framework/tools/ilasm-exe-il-assembler>
   - ildasm - <https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler>
+  - Fody-Costura-Decompress - <https://github.com/G4224T/Fody-Costura-Decompress>
   - NuGet - <https://www.nuget.org/downloads>
 - Windows
   - Pocman/Process Monitor - <https://docs.microsoft.com/en-us/sysinternals/downloads/procmon>
@@ -43,6 +47,7 @@
   - ContextMenuManager - <https://github.com/BluePointLilac/ContextMenuManager>
   - Sandboxie - <https://github.com/sandboxie/sandboxie>
   - Sandboxie Plus - <https://github.com/sandboxie-plus/Sandboxie>
+  - CMWTAT_Digital_Edition - <https://github.com/TGSAN/CMWTAT_Digital_Edition>
 - Network
   - SocksCap64 - <https://www.sockscap64.com/sockscap64-changelog/>
   - SSTap - <https://github.com/solikethis/SSTap-backup>
@@ -51,6 +56,7 @@
   - WinMTR 中国改进版 - <https://github.com/oott123/WinMTR>
   - WinMTR 中国改进改进版 - <https://github.com/heng21/WinMTR>
   - Wireshark - <https://www.wireshark.org/>
+  - Caddy v1 - <https://github.com/caippx/caddy-v1>
 - Art
   - Inkscape - <https://inkscape.org/>
   - IcoFX - <https://icofx.ro/>
