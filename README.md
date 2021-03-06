@@ -58,6 +58,7 @@
   - WinMTR 中国改进改进版 - <https://github.com/heng21/WinMTR>
   - Wireshark - <https://www.wireshark.org/>
   - Caddy v1 - <https://github.com/caippx/caddy-v1>
+  - NatTypeTester - <https://github.com/HMBSbige/NatTypeTester>
 - Art
   - Inkscape - <https://inkscape.org/>
   - IcoFX - <https://icofx.ro/>
