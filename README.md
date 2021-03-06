@@ -39,6 +39,7 @@
 - Windows
   - Pocman/Process Monitor - <https://docs.microsoft.com/en-us/sysinternals/downloads/procmon>
   - Windows-Loopback-Exemption-Manager - <https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager>
+  - QuickLook - <https://github.com/QL-Win/QuickLook>
 - Network
   - SocksCap64 - <https://www.sockscap64.com/sockscap64-changelog/>
   - SSTap - <https://github.com/solikethis/SSTap-backup>
