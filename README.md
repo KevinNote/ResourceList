@@ -21,6 +21,10 @@
 
 - 恢复预装 Apps [restore-preinstalled-apps.ps1](restore-preinstalled-apps.ps1)
 
+## 工具网站
+
+- E-book
+  - <https://www.worldmiao.com/>
 ## 工具软件
 
 - Guide
