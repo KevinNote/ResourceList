@@ -8,7 +8,7 @@
 
 ### Git 辅助脚本
 
-- 初始化 [git-init.bat](git-init.bat) <!-- TODO: 统一为 .cmd -->
+- 初始化 [git-init.cmd](git-init.cmd)
 - 一键提交 [git-acp.cmd](git-acp.cmd)
 - 一键强制提交 [git-acpf.cmd](git-acpf.cmd)
 
