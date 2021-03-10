@@ -37,6 +37,7 @@
 - Security
   - Gpg4win - <https://www.gpg4win.org/>
   - fscan - <https://github.com/shadow1ng/fscan>
+  - warp-plus-cloudflare - <https://github.com/ALIILAPRO/warp-plus-cloudflare>
 - Reverse Engineer
   - ImHex - <https://github.com/WerWolv/ImHex>
   - Ghidra - <https://ghidra-sre.org/>
