@@ -75,3 +75,14 @@
   - CMWTAT_Digital_Edition - <https://github.com/TGSAN/CMWTAT_Digital_Edition>
   - warp-plus-cloudflare - <https://github.com/ALIILAPRO/warp-plus-cloudflare>
   - BurpSuitPro - <https://github.com/TrojanAZhen/BurpSuitePro-2.1>
+
+## 字体
+
+- English
+  - Condensed
+    - [Cabin Condensed](https://fonts.google.com/specimen/Cabin+Condensed?preview.text_type=custom)
+    - [Open Sans Condensed](https://fonts.google.com/specimen/Open+Sans+Condensed?preview.text_type=custom)
+    - [Oswald](https://fonts.google.com/specimen/Oswald?preview.text_type=custom)
+    - [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed?preview.text_type=custom)
+  - Mono
+    - [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono?preview.text_type=custom)
