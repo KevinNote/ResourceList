@@ -23,14 +23,15 @@
 
 ## 工具网站
 
+- Guide
+  - Digital-Privacy - <https://github.com/ffffffff0x/Digital-Privacy>
 - E-book
   - <https://www.worldmiao.com/>
+  - <https://github.com/guanpengchn/awesome-books>
 - GitHub
   - <https://github-contributions.now.sh/>
 ## 工具软件
 
-- Guide
-  - Digital-Privacy - <https://github.com/ffffffff0x/Digital-Privacy>
 - Android
   - Android SDK Platform-Tools - <https://developer.android.com/studio/releases/platform-tools>
   - SamFirm_Reborn - <https://github.com/ivanmeler/SamFirm_Reborn>
