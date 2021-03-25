@@ -62,6 +62,7 @@
   - ContextMenuManager - <https://github.com/BluePointLilac/ContextMenuManager>
   - Sandboxie - <https://github.com/sandboxie/sandboxie>
   - Sandboxie Plus - <https://github.com/sandboxie-plus/Sandboxie>
+  - Locale-Emulator - <https://github.com/xupefei/Locale-Emulator>
 - Network
   - SocksCap64 - <https://www.sockscap64.com/sockscap64-changelog/>
   - SSTap - <https://github.com/solikethis/SSTap-backup>
