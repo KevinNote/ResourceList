@@ -53,7 +53,7 @@
   - Ghidra - <https://ghidra-sre.org/>
 - .NET
   - dnSpy - <https://github.com/dnSpy/dnSpy>
-  - d4dot - <https://github.com/de4dot/de4dot>
+  - de4dot - <https://github.com/de4dot/de4dot>
   - ilasm - <https://docs.microsoft.com/en-us/dotnet/framework/tools/ilasm-exe-il-assembler>
   - ildasm - <https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler>
   - Fody-Costura-Decompress - <https://github.com/G4224T/Fody-Costura-Decompress>
