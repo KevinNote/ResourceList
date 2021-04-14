@@ -64,16 +64,18 @@
   - Windows-Loopback-Exemption-Manager - <https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager>
   - QuickLook - <https://github.com/QL-Win/QuickLook>
   - ContextMenuManager - <https://github.com/BluePointLilac/ContextMenuManager>
-  - Sandboxie - <https://github.com/sandboxie/sandboxie>
-  - Sandboxie Plus - <https://github.com/sandboxie-plus/Sandboxie>
+  - Sandboxie
+    - Sandboxie - <https://github.com/sandboxie/sandboxie>
+    - Sandboxie Plus - <https://github.com/sandboxie-plus/Sandboxie>
   - Locale-Emulator - <https://github.com/xupefei/Locale-Emulator>
   - Windows 7 Games for Windows 10 - <https://win7games.com/>
 - Network
   - SocksCap64 - <https://www.sockscap64.com/sockscap64-changelog/>
   - SSTap - <https://github.com/solikethis/SSTap-backup>
-  - WinMTR - <https://sourceforge.net/projects/winmtr/>
-  - WinMTR 中国改进版 - <https://github.com/oott123/WinMTR>
-  - WinMTR 中国改进改进版 - <https://github.com/heng21/WinMTR>
+  - WinMTR
+    - WinMTR - <https://sourceforge.net/projects/winmtr/>
+    - WinMTR 中国改进版 - <https://github.com/oott123/WinMTR>
+    - WinMTR 中国改进改进版 - <https://github.com/heng21/WinMTR>
   - Wireshark - <https://www.wireshark.org/>
   - Caddy v1 - <https://github.com/caippx/caddy-v1>
   - NatTypeTester - <https://github.com/HMBSbige/NatTypeTester>
