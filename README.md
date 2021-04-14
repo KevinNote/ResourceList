@@ -78,6 +78,7 @@
   - Caddy v1 - <https://github.com/caippx/caddy-v1>
   - NatTypeTester - <https://github.com/HMBSbige/NatTypeTester>
   - forsaken-mail - <https://github.com/denghongcai/forsaken-mail>
+  - PingPlotter - <https://www.pingplotter.com/>
 - Art
   - Inkscape - <https://inkscape.org/>
   - IcoFX - <https://icofx.ro/>
