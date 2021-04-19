@@ -91,6 +91,19 @@
   - warp-plus-cloudflare - <https://github.com/ALIILAPRO/warp-plus-cloudflare>
   - BurpSuitPro - <https://github.com/TrojanAZhen/BurpSuitePro-2.1>
 
+## 模板
+
+- LaTeX
+  -  武汉大学毕业论文 LaTeX 模板 - <https://github.com/whutug/whu-thesis>
+  -  上海交通大学论文模板 - <https://github.com/sjtug/SJTUThesis>
+  -  北京邮电大学学士学位论文LaTeX模板 - <https://github.com/sheng-qiang/BUPTBachelorThesis>
+  -  清华大学学位论文 LaTeX 模板 - <https://github.com/tuna/thuthesis>
+  -  中国科学技术大学学位论文 LaTeX 模板 - <https://github.com/ustctug/ustcthesis>
+  -  电子科技大学毕业论文模板 - <https://github.com/x-magus/ThesisUESTC>
+  -  浙江大学学位论文 LaTeX 模板 - <https://github.com/TheNetAdmin/zjuthesis>
+  -  哈尔滨工业大学LaTeX论文模板 - <https://github.com/dustincys/hithesis>
+  -  北京理工大学硕士（博士）学位论文LaTeX模板 - <https://github.com/BIT-thesis/LaTeX-template>
+
 ## 字体
 
 - English
