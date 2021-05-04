@@ -27,6 +27,12 @@
 
 ## 工具网站
 
+- Academic
+  - Mathematics
+    - <https://www.geogebra.org/>
+    - <https://www.desmos.com/calculator>
+    - <https://www.symbolab.com/>
+    - <https://math.microsoft.com/>
 - Guide
   - Digital-Privacy - <https://github.com/ffffffff0x/Digital-Privacy>
 - E-book
