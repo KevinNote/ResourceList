@@ -33,6 +33,7 @@
     - <https://www.desmos.com/calculator>
     - <https://www.symbolab.com/>
     - <https://math.microsoft.com/>
+    - <https://www.latexlive.com/>
 - Guide
   - Digital-Privacy - <https://github.com/ffffffff0x/Digital-Privacy>
 - E-book
