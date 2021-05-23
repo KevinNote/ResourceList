@@ -148,5 +148,8 @@
   - 布洛芬 Ibuprofen/Sodium Ibuprofen （200mg I. ~= 256mg S.I.） - 每日摄入最大 2400mg
   - 扑热息痛 Paracetamol
   - 阿司匹林 Aspirin
+- 中庸之道
+  - 清开灵
+  - 莲花清瘟胶囊
 
 1. [目前最强的广谱抗生素是什么？有什么厉害之处？ - 知乎](https://www.zhihu.com/question/41462276)
