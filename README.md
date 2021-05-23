@@ -125,9 +125,9 @@
   - Mono
     - [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono?preview.text_type=custom)
   - Serif
-    - [CMU Serif](https://www.checkmyworking.com/cm-web-fonts/)
+    - [CMU Serif](https://www.checkmyworking.com/cm-web-fonts/) [FontSquirrel](https://www.fontsquirrel.com/fonts/computer-modern)
   - Maths
-    - [http://www.gust.org.pl/projects/e-foundry/lm-math](http://www.gust.org.pl/projects/e-foundry/lm-math) [CTAN](https://ctan.org/pkg/lm-math)
+    - [Latin Modern Math](http://www.gust.org.pl/projects/e-foundry/lm-math) [CTAN](https://ctan.org/pkg/lm-math)
 
 ## 药物
 
