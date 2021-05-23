@@ -127,6 +127,8 @@
 
 ## 药物
 
+- 日常
+  - 藿香正气水 Huoxiang Zhengqi Shui - 中暑/感冒
 - 胃病
   - 奥美拉唑 Omeprazole - 胃酸过度
   - 正露丸 Seirogan - 细菌性肠胃炎
