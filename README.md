@@ -128,7 +128,8 @@
     - [CMU Serif](https://www.checkmyworking.com/cm-web-fonts/) [FontSquirrel](https://www.fontsquirrel.com/fonts/computer-modern)
   - Maths
     - [Latin Modern Math](http://www.gust.org.pl/projects/e-foundry/lm-math) [CTAN](https://ctan.org/pkg/lm-math)
-
+- 简体中文
+  - [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
 ## 药物
 
 - 日常
