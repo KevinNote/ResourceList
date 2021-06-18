@@ -103,6 +103,8 @@
 
 ## 模板
 
+- Markdown
+  - typora-latex-theme - <https://github.com/Keldos-Li/typora-latex-theme>
 - LaTeX
   -  武汉大学毕业论文 LaTeX 模板 - <https://github.com/whutug/whu-thesis>
   -  上海交通大学论文模板 - <https://github.com/sjtug/SJTUThesis>
@@ -130,6 +132,7 @@
     - [Latin Modern Math](http://www.gust.org.pl/projects/e-foundry/lm-math) [CTAN](https://ctan.org/pkg/lm-math)
 - 简体中文
   - [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
+
 ## 药物
 
 - 日常
