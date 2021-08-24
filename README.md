@@ -45,6 +45,7 @@
   - <https://www.compart.com/en/unicode>
   - <https://ip.sb/>
   - <https://0.30000000000000004.com/>
+  - <https://www.fileformat.info/info/unicode/>
 - Art
   - Mi Style Logo Maker - <https://mi-logo.lvwzhen.com/>
   - Remove pic background - <https://www.remove.bg/>
