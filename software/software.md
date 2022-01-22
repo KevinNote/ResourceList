@@ -1,3 +1,5 @@
+[Back](README.md) | [List](README.md) | [Main Menu](../README.md)
+
 # Softwares
 
 - Productivity

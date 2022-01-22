@@ -1,3 +1,5 @@
+[Back](README.md) | [List](README.md) | [Main Menu](../README.md)
+
 # 常用药品
 
 - 日常
