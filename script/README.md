@@ -3,11 +3,7 @@
 ## 海外必备
 
 - 网易云解锁脚本 [Windows](netease-music-unlock.cmd)
-- 翻译
-  - 英文
-    - [DeepL](https://deepl.com)
-  - 韩语
-    - [Papago](https://papago.naver.com/)
+
 ## Git 辅助脚本
 
 - 初始化 [git-init.cmd](git-init.cmd)

@@ -2,6 +2,13 @@
 
 ##  Academic
 
+## Translator
+
+- English
+  - [DeepL](https://deepl.com)
+- Korean
+  - [Papago](https://papago.naver.com/)
+
 ### Mathematics
 
 - <https://www.geogebra.org/>
@@ -16,8 +23,11 @@
 
 ## E-book
 
-- <https://www.worldmiao.com/>
+- ~~<https://www.worldmiao.com/>~~
 - <https://github.com/guanpengchn/awesome-books>
+- 鸠摩搜书 - <https://www.jiumodiary.com/>
+- Library Genesis - <http://gen.lib.rus.ec/>
+- Z-Library - <https://z-lib.org/>
 
 ## GitHub
 
@@ -25,10 +35,10 @@
 
 ## Programme
 
-- <https://www.compart.com/en/unicode>
-- <https://ip.sb/>
+- Unicode - <https://www.compart.com/en/unicode>
+- IP.SB - <https://ip.sb/>
 - <https://0.30000000000000004.com/>
-- <https://www.fileformat.info/info/unicode/>
+- Unicode - <https://www.fileformat.info/info/unicode/>
 
 ## Art
 
@@ -36,4 +46,5 @@
 - Remove pic background - <https://www.remove.bg/>
 
 ## Document
-  - <https://ecotrust-canada.github.io/markdown-toc/>
+
+- <https://ecotrust-canada.github.io/markdown-toc/>
