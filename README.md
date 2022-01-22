@@ -70,6 +70,7 @@
 - Reverse Engineer
   - ImHex - <https://github.com/WerWolv/ImHex>
   - Ghidra - <https://ghidra-sre.org/>
+  - Cutter - <https://cutter.re/>
 - .NET
   - dnSpy - <https://github.com/dnSpy/dnSpy>
   - de4dot - <https://github.com/de4dot/de4dot>
