@@ -1,4 +1,4 @@
-[⬅️Back](../README.md) | **List** | [🏠Home](../README.md)
+[⬅️Back](../README.md) | **📝List** | [🏠Home](../README.md)
 
 # 生命相关
 
