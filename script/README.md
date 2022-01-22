@@ -1,3 +1,5 @@
+[Back](../README.md) | **List** | [Main Menu](../README.md)
+
 # 脚本
 
 ## 海外必备
