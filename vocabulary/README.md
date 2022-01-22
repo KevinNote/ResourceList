@@ -1,4 +1,4 @@
-[Back](../README.md) | **List** | [Main Menu](../README.md)
+[⬅️Back](../README.md) | **List** | [🏠Home](../README.md)
 
 # 词汇相关
 
