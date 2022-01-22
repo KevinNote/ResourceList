@@ -7,21 +7,25 @@
 ### Translator
 
 - English
-  - [DeepL](https://deepl.com)
+  - DeepL - <https://deepl.com>
 - Korean
-  - [Papago](https://papago.naver.com/)
+  - Papago - <https://papago.naver.com/>
 
 ### Mathematics
 
-- <https://www.geogebra.org/>
-- <https://www.desmos.com/calculator>
-- <https://www.symbolab.com/>
-- <https://math.microsoft.com/>
-- <https://www.latexlive.com/>
+- GeoGebra - <https://www.geogebra.org/>
+- Desmos - <https://www.desmos.com/calculator>
+- Symbolab - <https://www.symbolab.com/>
+- Microsoft Math - <https://math.microsoft.com/>
+- LaTeX Live - <https://www.latexlive.com/>
 
 ## Guide
 
-- Digital-Privacy - <https://github.com/ffffffff0x/Digital-Privacy>
+- Digital Privacy - <https://github.com/ffffffff0x/Digital-Privacy>
+- 计算机系应届生求职指北 - <https://github.com/easychen/career-guide-for-cs-graduate>
+- 中文技术文档的写作规范 - <https://github.com/ruanyf/document-style-guide>
+- 面向开发人员梳理的代码安全指南 - <https://github.com/Tencent/secguide>
+- 可能是让你受益匪浅的英语进阶指南 - <https://github.com/byoungd/English-level-up-tips-for-Chinese>
 
 ## E-book
 
@@ -33,7 +37,7 @@
 
 ## GitHub
 
-- <https://github-contributions.now.sh/>
+- GitHub Contributions Chart Generator - <https://github-contributions.now.sh/>
 
 ## Programme
 
@@ -49,4 +53,4 @@
 
 ## Document
 
-- <https://ecotrust-canada.github.io/markdown-toc/>
+- GitHub Wiki TOC generator - <https://ecotrust-canada.github.io/markdown-toc/>
