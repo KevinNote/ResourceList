@@ -13,6 +13,10 @@
 - Open Learn - The Open University - <https://www.open.edu/openlearn/free-courses/full-catalogue>
 - Open Learning Initiative - Carnegie Mellon University - <https://oli.cmu.edu/courses/>
 
+- Mooc - <https://www.mooc.org/>
+- Coursera - <https://www.coursera.org/>
+- edX - <https://www.edx.org/>
+
 ### Translator
 
 - English
