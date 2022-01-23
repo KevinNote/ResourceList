@@ -23,4 +23,5 @@
   - 清开灵
   - 莲花清瘟胶囊
 
-1. [目前最强的广谱抗生素是什么？有什么厉害之处？ - 知乎](https://www.zhihu.com/question/41462276)
+1. [目前最强的广谱抗生素是什么？有什么厉害之处？ - 知乎](https://www.zhihu.com/question/41462276) | [Archive](https://archive.ph/bJuxq)
+
