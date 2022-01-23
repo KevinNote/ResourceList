@@ -4,6 +4,8 @@
 
 ##  Academic
 
+- ResourceLists@Bham - <https://bham.rl.talis.com/index.html>
+
 ### Translator
 
 - English
