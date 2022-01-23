@@ -17,6 +17,8 @@
 - Coursera - <https://www.coursera.org/>
 - edX - <https://www.edx.org/>
 
+- CS自学指南 - <https://csdiy.wiki/>
+
 ### Translator
 
 - English
