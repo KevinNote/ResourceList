@@ -5,6 +5,13 @@
 ##  Academic
 
 - ResourceLists@Bham - <https://bham.rl.talis.com/index.html>
+- MIT OpenCourseWare - <https://ocw.mit.edu/index.htm>
+- Harvard Online Courses - <https://pll.harvard.edu/catalog/free>
+- Stanford Online - <https://online.stanford.edu/free-courses>
+- Open Yale Courses - <https://oyc.yale.edu/>
+- Princeton Online - <https://online.princeton.edu/courses>
+- Open Learn - The Open University - <https://www.open.edu/openlearn/free-courses/full-catalogue>
+- Open Learning Initiative - Carnegie Mellon University - <https://oli.cmu.edu/courses/>
 
 ### Translator
 
