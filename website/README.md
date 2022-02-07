@@ -17,7 +17,7 @@
 - Coursera - <https://www.coursera.org/>
 - edX - <https://www.edx.org/>
 
-- CS自学指南 - <https://csdiy.wiki/>
+- CS 自学指南 - <https://csdiy.wiki/>
 
 ### Translator
 
@@ -61,6 +61,7 @@
 - <https://0.30000000000000004.com/>
 - Unicode - <https://www.fileformat.info/info/unicode/>
 - SharpLab - <https://sharplab.io/>
+- 图论画板 Graph Editor <https://csacademy.com/app/graph_editor/>
 
 ## Art
 
