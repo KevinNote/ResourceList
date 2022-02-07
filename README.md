@@ -6,5 +6,6 @@
 - [脚本相关](script/README.md)
 - [工具网站](website/README.md)
 - [软件相关](software/README.md)
+- [词汇相关](vocabulary/README.md)
 - [文章记录](article/README.md)
 - [其余资源](others/README.md)
