@@ -15,6 +15,12 @@
 | V.V.   | vice versa     | 反之亦然           |
 | iff.   | if and only if | 当且仅当           |
 
+## Life
+
+| Abbr. | Meaning                       |
+| :---- | :---------------------------- |
+| TBC   | To Be Confirmed               |
+| TBA   | To Be Advised/To Be Announced |
 
 ## Menu
 
