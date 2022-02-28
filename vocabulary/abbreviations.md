@@ -21,6 +21,21 @@
 | :---- | :---------------------------- |
 | TBC   | To Be Confirmed               |
 | TBA   | To Be Advised/To Be Announced |
+| ASAP  | As soon as possible           |
+| CC    | Carbon Copy                   |
+| BTW   | By The Way                    |
+| BS    | Brainstorming                 |
+| PS    | Postscript                    |
+| FYI   | For Your Information          |
+| ETA   | Estimated Time of Arrival     |
+| ATB   | All the Best                  |
+| IMO   | In My Opinion                 |
+| PCM   | Please Call Me                |
+| AL    | Annual Leave                  |
+| BBL   | Be Back Later                 |
+| TBD   | To Be Determined              |
+| XOXO  | Hugs and Kisses               |
+| BR    | Best Regards                  |
 
 ## Menu
 
