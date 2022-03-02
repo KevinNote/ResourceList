@@ -10,6 +10,7 @@
 1 CAD ~ 5.0 CNY ~   5 CNY ~   5 CNY  
 1 SGD ~ 4.7 CNY ~   5 CNY ~   5 CNY  
 1 AUD ~ 4.5 CNY ~   5 CNY ~   5 CNY  
+1 HKD ~ 1.2 CNY ~   1 CNY ~   1 CNY  
 1 RUB ~ 0.0 CNY ~   0 CNY ~   0 CNY *// Waste Paper*
 
 1 CNY ~  18 JPY ~  18 JPY ~  20 JPY  
